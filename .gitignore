@@ -1,0 +1,6 @@
+# Existing ignores might be here, like:
+node_modules/
+dist/
+
+# Add the specific StackBlitz configuration file:
+.stackblitzrc
